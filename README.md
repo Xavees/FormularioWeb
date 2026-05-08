@@ -86,11 +86,74 @@ FORMULARIOTYPESCRIPT/
 ├── src/
 │   └── formulario.ts
 │
-├── tsconfig.json
-│
-│
-├── .gitignore
-│
-├── README.md
-│
+└── tsconfig.json
+```
 
+---
+
+# ⚙️ Como executar o projeto
+
+## Pré-requisitos
+
+- XAMPP
+- PHP
+- MySQL
+- TypeScript instalado globalmente
+
+---
+
+## 1️⃣ Clone o repositório
+
+```bash
+git clone URL_DO_REPOSITORIO
+```
+
+---
+
+## 2️⃣ Coloque o projeto dentro do htdocs
+
+Exemplo:
+
+```txt
+C:\xampp\htdocs\
+```
+
+---
+
+## 3️⃣ Inicie o Apache no XAMPP
+
+---
+
+## 4️⃣ Compile o TypeScript
+
+```bash
+tsc
+```
+
+Ou:
+
+```bash
+tsc --watch
+```
+
+---
+
+## 5️⃣ Abra no navegador
+
+```txt
+http://localhost/FORMULARIOTYPESCRIPT/HTML/formulario.html
+```
+
+---
+
+# 🔎 Observação
+
+Existe outra versão deste mesmo formulário desenvolvida anteriormente utilizando apenas **JavaScript puro**, disponível no meu GitHub.
+
+Este projeto foi criado como evolução da versão JavaScript para praticar a utilização de TypeScript em aplicações web reais.
+
+---
+
+# 👨‍💻 Autor
+
+Desenvolvido por Xavees 🚀
