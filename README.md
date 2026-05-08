@@ -86,4 +86,11 @@ FORMULARIOTYPESCRIPT/
 ├── src/
 │   └── formulario.ts
 │
-└── tsconfig.json
+├── tsconfig.json
+│
+│
+├── .gitignore
+│
+├── README.md
+│
+
